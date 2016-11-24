@@ -1,0 +1,11 @@
+commit 79067600c760c7a07ec24d72c330a762cb7286b1
+Author: BINS <bins.br@gmail.com>
+Date:   Wed Nov 23 20:10:19 2016 -0200
+
+    conteudo da pagina index.html
+
+commit ccee948c5b42acda16ef1c756ef99eed307efa73
+Author: BINS <bins.br@gmail.com>
+Date:   Wed Nov 23 20:08:05 2016 -0200
+
+    inicio do projeto
